@@ -95,6 +95,17 @@ export function Footer() {
 
         <div className="mt-8 border-t border-border pt-8 text-center">
           <p className="text-sm text-muted-foreground">© {currentYear} سطحة سكاكا. جميع الحقوق محفوظة.</p>
+          <p className="mt-2 text-xs text-muted-foreground">
+            تصميم وتطوير{" "}
+            <a
+              href="https://www.sakhrs.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="font-semibold text-primary transition-colors hover:text-primary/80"
+            >
+              sakhr
+            </a>
+          </p>
         </div>
       </div>
     </footer>
