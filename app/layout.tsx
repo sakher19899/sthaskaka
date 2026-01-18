@@ -47,9 +47,7 @@ export const metadata: Metadata = {
   publisher: "سطحة سكاكا",
   applicationName: "سطحة سكاكا",
   category: "خدمات نقل السيارات",
-  verification: {
-    google: "google-site-verification-code",
-  },
+
   openGraph: {
     type: "website",
     locale: "ar_SA",
@@ -228,13 +226,7 @@ export default function RootLayout({
                   },
                 ],
               },
-              aggregateRating: {
-                "@type": "AggregateRating",
-                ratingValue: "5",
-                reviewCount: "1000",
-                bestRating: "5",
-                worstRating: "1",
-              },
+              
             }),
           }}
         />
