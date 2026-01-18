@@ -128,16 +128,7 @@ export default function ServicesPage() {
                       {/* Image */}
                       <div className="relative h-64 md:h-full md:min-h-[400px]">
                         <Image
-                          src={`/images/d8-b3-d8-b7-d8-ad-d8-a9-20-d8-b4-d9-85-d8-a7-d9-84-20-d8-a7-d9-84-d8-b1-d9-8a-d8-a7-d8-b6-20-28.jpg
-                            index + 2
-                          }%29-${
-                            [
-                              "dWdun5ZdESfJBPO0tJmUMHevvXyZQv",
-                              "AtoWEFkU8Krn7Z8lxtdGTFQSM6wY8V",
-                              "Py3H0DEcCFhuUqRN05kKeTsTQV3TqL",
-                              "wSQEHbuAjb0pOkPYZtwx6x80jBw5we",
-                            ][index]
-                          }.jpg`}
+                          src={`/images/satha-${index + 2}.jpg`}
                           alt={service.title}
                           fill
                           className="object-cover"

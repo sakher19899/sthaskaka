@@ -107,7 +107,7 @@ export default function HomePage() {
               <div className="relative">
                 <div className="relative aspect-[4/3] overflow-hidden rounded-2xl shadow-2xl">
                   <Image
-                    src="/images/d8-b3-d8-b7-d8-ad-d8-a9-20-d8-b4-d9-85-d8-a7-d9-84-20-d8-a7-d9-84-d8-b1-d9-8a-d8-a7-d8-b6-20-2810-29.jpg"
+                    src="/images/satha-1.jpg"
                     alt="سطحة سكاكا - خدمة نقل سيارات احترافية"
                     fill
                     className="object-cover"
@@ -190,7 +190,7 @@ export default function HomePage() {
               <div className="grid grid-cols-2 gap-4">
                 <div className="relative aspect-square overflow-hidden rounded-xl">
                   <Image
-                    src="/images/d8-b3-d8-b7-d8-ad-d8-a9-20-d8-b4-d9-85-d8-a7-d9-84-20-d8-a7-d9-84-d8-b1-d9-8a-d8-a7-d8-b6-20-289-29.jpg"
+                    src="/images/satha-2.jpg"
                     alt="سطحة احترافية"
                     fill
                     className="object-cover"
@@ -198,7 +198,7 @@ export default function HomePage() {
                 </div>
                 <div className="relative aspect-square overflow-hidden rounded-xl">
                   <Image
-                    src="/images/d8-b3-d8-b7-d8-ad-d8-a9-20-d8-b4-d9-85-d8-a7-d9-84-20-d8-a7-d9-84-d8-b1-d9-8a-d8-a7-d8-b6-20-288-29.jpg"
+                    src="/images/satha-3.jpg"
                     alt="نقل سيارات آمن"
                     fill
                     className="object-cover"
@@ -206,7 +206,7 @@ export default function HomePage() {
                 </div>
                 <div className="relative aspect-square overflow-hidden rounded-xl">
                   <Image
-                    src="/images/d8-b3-d8-b7-d8-ad-d8-a9-20-d8-b4-d9-85-d8-a7-d9-84-20-d8-a7-d9-84-d8-b1-d9-8a-d8-a7-d8-b6-20-285-29.jpg"
+                    src="/images/satha-5.jpg"
                     alt="خدمة سريعة"
                     fill
                     className="object-cover"
@@ -214,7 +214,7 @@ export default function HomePage() {
                 </div>
                 <div className="relative aspect-square overflow-hidden rounded-xl">
                   <Image
-                    src="/images/d8-b3-d8-b7-d8-ad-d8-a9-20-d8-b4-d9-85-d8-a7-d9-84-20-d8-a7-d9-84-d8-b1-d9-8a-d8-a7-d8-b6-20-283-29.jpg"
+                    src="/images/satha-7.jpg"
                     alt="فريق محترف"
                     fill
                     className="object-cover"

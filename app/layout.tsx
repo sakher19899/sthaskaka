@@ -118,7 +118,7 @@ export default function RootLayout({
                 "خدمة سطحة احترافية في سكاكا والمناطق المجاورة لنقل السيارات المعطلة والحوادث على مدار الساعة",
               image: [
                 "https://tow-truck-sakaka.vercel.app/og-image.jpg",
-                "/images/d8-b3-d8-b7-d8-ad-d8-a9-20-d8-b4-d9-85-d8-a7-d9-84-20-d8-a7-d9-84-d8-b1-d9-8a-d8-a7-d8-b6-20-2810-29.jpg",
+                "/images/satha-1.jpg",
               ],
               url: "https://tow-truck-sakaka.vercel.app",
               telephone: "+966545825080",
