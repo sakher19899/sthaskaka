@@ -1,0 +1,5 @@
+Contact: tel:+966545825080
+Preferred-Languages: ar, en
+Canonical: https://tow-truck-sakaka.vercel.app/.well-known/security.txt
+Policy: https://tow-truck-sakaka.vercel.app/
+Acknowledgments: https://tow-truck-sakaka.vercel.app/

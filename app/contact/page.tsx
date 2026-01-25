@@ -115,7 +115,7 @@ export default function ContactPage() {
                     <div className="mb-6 text-3xl font-bold text-foreground">{method.value}</div>
 
                     <Button asChild size="lg" className={`w-full ${method.color} text-white hover:opacity-90`}>
-                      <a href={method.action} className="gap-2">
+                      <a href={method.action} {...(method.action.startsWith('http') && { target: "_blank", rel: "noopener noreferrer" })} className="gap-2">
                         <method.icon className="h-5 w-5" />
                         {method.buttonText}
                       </a>
@@ -168,7 +168,7 @@ export default function ContactPage() {
                       <h3 className="mb-2 text-xl font-bold text-foreground">{action.title}</h3>
                       <p className="mb-6 text-sm text-muted-foreground">{action.description}</p>
                       <Button asChild size="lg" variant={action.variant} className="w-full">
-                        <a href={action.action}>{action.buttonText}</a>
+                        <a href={action.action} {...(action.action.startsWith('http') && { target: "_blank", rel: "noopener noreferrer" })}>{action.buttonText}</a>
                       </Button>
                     </CardContent>
                   </Card>
